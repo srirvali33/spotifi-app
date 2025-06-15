@@ -1,1 +1,1 @@
-# spotify-app
+# spotifi-app-clone
